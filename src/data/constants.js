@@ -190,7 +190,16 @@ export const education = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Graphic Era University",
+    Univeristy: "Graphic Era University",
+    date: "Oct 2021 - Present ",
+    grade: "7.6 CGPA",
+    desc: "I am currently pursuing a Master's degree in Computer Application at Graphic  Era  University, Dehradun. I have completed 2 semesters and have a CGPA of 7.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Bachelor of Computer Applications",
+  },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    Univeristy: "Graphic Era University",
     date: "Oct 2021 - Present ",
     grade: "8 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Application at Graphic  Era  University, Dehradun. I have completed 5 semesters and have a CGPA of 8. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
@@ -260,7 +269,7 @@ export const projects = [
         // 
       },
       {
-        // name: "Upasana Chaudhuri",
+        // name: "Madhav Ahuja",
         // img: "https://avatars.githubusercontent.com/u/100614635?v=4",
         // linkedin: ",
         // github: 
@@ -286,5 +295,5 @@ export const TimeLineData = [
   { year: 2019, text: "Founded JavaScript Mastery" },
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started BCA -24" },
-  { year: 2021, text: "Started MCA Present" }
+  { year: 2024, text: "Started MCA Present" }
 ];

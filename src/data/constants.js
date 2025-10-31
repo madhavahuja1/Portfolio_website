@@ -187,15 +187,16 @@ export const experiences = [
 ];
 
 export const education = [
-  {
-    id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    Univeristy: "Graphic Era University",
-    date: "Oct 2021 - Present ",
-    grade: "7.6 CGPA",
-    desc: "I am currently pursuing a Master's degree in Computer Application at Graphic  Era  University, Dehradun. I have completed 2 semesters and have a CGPA of 7.6. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Computer Applications",
-  },
+{
+  id: 0,
+  // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/GEU.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+  University: "Graphic Era University",
+  date: "Oct 2021 - Present",
+  grade: "7.6 CGPA",
+  desc: "I am currently pursuing a Master's degree in Computer Applications (MCA) at Graphic Era University, Dehradun. I have completed 2 semesters with a CGPA of 7.6. My coursework includes Advanced Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, and Software Engineering, among others.",
+  degree: "Master of Computer Applications (MCA)",
+}
+,
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",

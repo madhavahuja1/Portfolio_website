@@ -11,7 +11,7 @@ export const Bio = {
   name: "Madhav Ahuja",
   roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
   description:
-    " Detail-oriented BCA student with hands-on experience in full-stack development through internships and academic projects. Skilled in building high-performance web applications using PHP, Python, HTML, and CSS. Eager to take on new challenges, continuously learn, and deliver quality results with a growth mindset",
+    " Detail-oriented MCA student with hands-on experience in full-stack development through internships and academic projects. Skilled in building high-performance web applications using PHP, Python, HTML, and CSS. Eager to take on new challenges, continuously learn, and deliver quality results with a growth mindset",
   github: "https://github.com/madhavahuja1",
   resume:
     "https://drive.google.com/file/d/1ysFt0ZshTv3Zmf2b9cYbeMZilxiCyX0e/view?usp=sharing",
